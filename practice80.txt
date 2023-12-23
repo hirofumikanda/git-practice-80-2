@@ -1,1 +1,2 @@
 local branch develop
+remote branch develop
